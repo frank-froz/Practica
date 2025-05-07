@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%pbwf=bv$swxf4m$bgr&e88%ye5058b*2=ak%n^%%(serx4=br
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['practica.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['practica-ovwq.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
